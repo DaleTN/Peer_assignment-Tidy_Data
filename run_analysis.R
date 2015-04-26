@@ -1,4 +1,3 @@
-setwd("~/GitHub/datasciencecoursera/Data Cleansing/project raw data/UCI HAR Dataset")
 inputfile1 <- c("test/X_test.txt")
 inputfile2 <- c("test/y_test.txt")
 inputfile3 <- c("test/subject_test.txt")
